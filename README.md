@@ -1,10 +1,10 @@
 # Final-project
 
-Upload game_server.py to the server and exeute it.
+Upload game_server.py to the server and execute it.
 
 Reset STM32 Iot Node, let it connect to the server.
 
-Excute menu.py, open the game and connect to the server.
+Execute menu.py, open the game and connect to the server.
 
 Enjoy the game.
 
